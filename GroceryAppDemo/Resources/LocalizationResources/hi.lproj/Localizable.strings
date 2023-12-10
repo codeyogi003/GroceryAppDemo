@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  GroceryAppDemo
+
+  Created by Bhagyesh Desai on 08/12/23.
+  
+*/
+
+"HomePageTitleLabel" = "ಸಂಪರ್ಕವಿಲ್ಲದ ವಿತರಣೆಗಳು";
+"HomePageDesciptionLabel" = "ಆದೇಶವನ್ನು ನೀಡುವಾಗ, ಸಂಪರ್ಕವಿಲ್ಲದ ವಿತರಣೆ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ ಮತ್ತು ಕೊರಿಯರ್ ನಿಮ್ಮ ಆದೇಶವನ್ನು ಬಾಗಿಲಿಗೆ ಬಿಡುತ್ತದೆ.";
+"OrderNowButtonLabel" = "ಈಗ ಆದೇಶಿಸು";
+"DismissButtonLabel" = "ವಜಾಗೊಳಿಸಿ";
+
+"CategoryPageTitleLabel" = "ವರ್ಗಗಳು";
+"SearchBarPlaceholderLabel" = "ಹುಡುಕಿ";
+
+"AddToCartButtonLabel" = "ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಿ";
+
+"CheckoutPageTitleLabel" = "ದೃಢೀಕರಣ";
+"CheckoutPagePaymentMethodLabel" = "ಪಾವತಿ ವಿಧಾನ";
+"CheckoutPageChangeButtonLabel" = "ಬದಲಾಯಿಸಿ";
+"CheckoutPageDeliveryAddressLabel" = "ತಲುಪಿಸುವ ವಿಳಾಸ";
+"CheckoutPageDeliveryOptionsLabel" = "ವಿತರಣಾ ಆಯ್ಕೆಗಳು";
+"CheckoutPagePickMyselfLabel" = "ನಾನೇ ಅದನ್ನು ಎತ್ತಿಕೊಳ್ಳುತ್ತೇನೆ";
+"CheckoutPageByCourierLabel" = "ಕೊರಿಯರ್ ಮೂಲಕ";
+"CheckoutPageByDroneLabel" = "ಡ್ರೋನ್ ಮೂಲಕ";
+"CheckoutPageNoContactLabel" = "ಸಂಪರ್ಕವಿಲ್ಲದ ವಿತರಣೆ";
+"CheckoutPageYesLabel" = "ಹೌದು";
+"CheckoutPageNoLabel" = "ಇಲ್ಲ";
+
+"CardPageTitleLabel" = "ಕ್ರೆಡಿಟ್ / ಡೆಬಿಟ್ ಕಾರ್ಡ್";
+"CardPageNameLabel" = "ಕಾರ್ಡ್‌ನಲ್ಲಿ ಹೆಸರು";
+"CardPageCardNumberLabel" = "ಕಾರ್ಡ್ ಸಂಖ್ಯೆ";
+"CardPageExpiryLabel" = "ಗಡುವು ದಿನಾಂಕ";
+"CardPageCVCLabel" = "CVC";
+"CardPageUseCardButtonLabel" = "ಈ ಕಾರ್ಡ್ ಬಳಸಿ";
+
+"ConfirmationPageThankYouLabel" = "ಧನ್ಯವಾದಗಳು\nನಮ್ಮೊಂದಿಗೆ ಶಾಪಿಂಗ್ ಮಾಡಿದ್ದಕ್ಕಾಗಿ";
+"ConfirmationPageOrderMoreLabel" = "ಇನ್ನಷ್ಟು ಆರ್ಡರ್ ಮಾಡಿ";
+"ConfirmationPageCloseLabel" = "ಮುಚ್ಚು";
+
+"TestingLabel" = "ಇಲ್ಲಿ ಪಠ್ಯ";

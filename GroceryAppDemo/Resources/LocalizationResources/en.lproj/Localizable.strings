@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  GroceryAppDemo
+
+  Created by Bhagyesh Desai on 08/12/23.
+  
+*/
+
+"HomePageTitleLabel" = "No-Contact Deliveries";
+"HomePageDesciptionLabel" = "When placing an order, select the option Contactless Delivery and the courier will leave your order at the door.";
+"OrderNowButtonLabel" = "ORDER NOW";
+"DismissButtonLabel" = "Dismiss";
+
+"CategoryPageTitleLabel" = "Categories";
+"SearchBarPlaceholderLabel" = "Search";
+
+"AddToCartButtonLabel" = "ADD TO CART";
+
+"CheckoutPageTitleLabel" = "Confirmation";
+"CheckoutPagePaymentMethodLabel" = "Payment Method";
+"CheckoutPageChangeButtonLabel" = "CHANGE";
+"CheckoutPageDeliveryAddressLabel" = "Delivery Address";
+"CheckoutPageDeliveryOptionsLabel" = "Delivery Options";
+"CheckoutPagePickMyselfLabel" = "I'll pick it up Myself";
+"CheckoutPageByCourierLabel" = "By Courier";
+"CheckoutPageByDroneLabel" = "By Drone";
+"CheckoutPageNoContactLabel" = "No-Contact Delivery";
+"CheckoutPageYesLabel" = "Yes";
+"CheckoutPageNoLabel" = "No";
+
+"CardPageTitleLabel" = "Credit / Debit Card";
+"CardPageNameLabel" = "Name on Card";
+"CardPageCardNumberLabel" = "Card Number";
+"CardPageExpiryLabel" = "Expiry Date";
+"CardPageCVCLabel" = "CVC";
+"CardPageUseCardButtonLabel" = "USE THIS CARD";
+
+"ConfirmationPageThankYouLabel" = "Thank You\nFor shopping with us";
+"ConfirmationPageOrderMoreLabel" = "ORDER MORE";
+"ConfirmationPageCloseLabel" = "CLOSE";
+
+"TestingLabel" = "Text here";

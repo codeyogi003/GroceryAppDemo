@@ -15,11 +15,28 @@
 					<string>Default Configuration</string>
 					<key>UISceneDelegateClassName</key>
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
-					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
 				</dict>
 			</array>
 		</dict>
 	</dict>
+    
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSExceptionDomains</key>
+        <dict>
+            <!-- Add your domain exceptions here -->
+            <key>ec2-15-207-119-97.ap-south-1.compute.amazonaws.com</key>
+            <dict>
+                <!-- Specify the exceptions for this domain -->
+                <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                <true/>
+                <!-- Add other exception keys if needed -->
+            </dict>
+            
+            <!-- Add more domain exceptions if necessary -->
+        </dict>
+    </dict>
+    
 </dict>
+
 </plist>
